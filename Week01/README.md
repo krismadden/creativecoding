@@ -1,3 +1,2 @@
 # creativecoding
-
-Asignments for week 1.
+# Assignments for week 1
