@@ -1,4 +1,4 @@
 # creativecoding
 # Assignments for week 2
 
-![Gif](week02.gif)
+![Gif](week02_01.gif)
