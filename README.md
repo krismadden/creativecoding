@@ -17,4 +17,16 @@
 
 ### week 3:
 
+![Gif](https://media.giphy.com/media/xT9IgtbXK4ewohrdU4/giphy.gif)
 
+
+
+![Gif](https://media.giphy.com/media/26n7bxdBOkqYNzvY4/giphy.gif)
+
+
+
+![Gif](https://media.giphy.com/media/l1J9sn28zX2pEapDq/giphy.gif)
+
+
+
+![Gif](https://media.giphy.com/media/l1J9wQUefkicJiMco/giphy.gif)
