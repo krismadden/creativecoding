@@ -26,5 +26,5 @@
 ![why is this not working?](https://media.giphy.com/media/l1J9sn28zX2pEapDq/giphy.gif)
 https://media.giphy.com/media/l1J9sn28zX2pEapDq/giphy.gif
 
-![why is this not working either?](https://media.giphy.com/media/l1J9wQUefkicJiMco/giphy.gif)
-https://media.giphy.com/media/l1J9wQUefkicJiMco/giphy.gif
+![why is this not working either?](https://media.giphy.com/media/l1J9Cr5eeEPSGsexa/giphy.gif)
+https://media.giphy.com/media/l1J9Cr5eeEPSGsexa/giphy.gif
