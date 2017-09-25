@@ -23,8 +23,8 @@
 
 ![Gif](https://media.giphy.com/media/26n7bxdBOkqYNzvY4/giphy.gif)
 
-![why is this not working?](https://media.giphy.com/media/l1J9sn28zX2pEapDq/giphy.gif)
+![why is this not working? click link there >>](https://media.giphy.com/media/l1J9sn28zX2pEapDq/giphy.gif)
 https://media.giphy.com/media/l1J9sn28zX2pEapDq/giphy.gif
 
-![why is this not working either?](https://media.giphy.com/media/l1J9Cr5eeEPSGsexa/giphy.gif)
+![why is this not working either? click link there >>](https://media.giphy.com/media/l1J9Cr5eeEPSGsexa/giphy.gif)
 https://media.giphy.com/media/l1J9Cr5eeEPSGsexa/giphy.gif
