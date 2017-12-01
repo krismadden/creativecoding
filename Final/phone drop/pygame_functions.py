@@ -236,7 +236,7 @@ def screenSize(sizex, sizey, xpos=None, ypos=None, fullscreen=False):
     else:
         screen = pygame.display.set_mode([sizex, sizey])
     screen.fill(bgcolor)
-    pygame.display.set_caption("Graphics Window")
+    pygame.display.set_caption("Phone Drop")
     bgSurface = screen.copy()
     pygame.display.update()
 
