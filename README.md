@@ -41,9 +41,12 @@ https://media.giphy.com/media/l1J9Cr5eeEPSGsexa/giphy.gif
 ![Gif](https://media.giphy.com/media/3ohhwJ59cxmZQDlfKo/giphy.gif)
 
 
-### Final Experiments:
+### week 6:
 
 ![https://media.giphy.com/media/xT9IgwdF8ThxneOuys/giphy.gif](https://media.giphy.com/media/xT9IgwdF8ThxneOuys/giphy.gif)
+
+
+### Final Experiments:
 
 ![https://media.giphy.com/media/3osBL91Ad4fMMVuRt6/giphy.gif](https://media.giphy.com/media/3osBL91Ad4fMMVuRt6/giphy.gif)
 
