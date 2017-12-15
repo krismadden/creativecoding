@@ -21,3 +21,6 @@ The key are programmed to the makey makey. Therefore they are a bit awakward to 
 - 0 - f
 - \* - g
 - \# - left mouse click
+
+
+![https://media.giphy.com/media/3ohs7X0YawdWhWn7BC/giphy.gif](https://media.giphy.com/media/3ohs7X0YawdWhWn7BC/giphy.gif)
