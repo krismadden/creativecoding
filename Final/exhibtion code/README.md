@@ -24,3 +24,5 @@ The key are programmed to the makey makey. Therefore they are a bit awakward to 
 
 
 ![https://media.giphy.com/media/3ohs7X0YawdWhWn7BC/giphy.gif](https://media.giphy.com/media/3ohs7X0YawdWhWn7BC/giphy.gif)
+
+![https://media.giphy.com/media/xUOxfmS0zWLpFiGjdu/giphy.gif](https://media.giphy.com/media/xUOxfmS0zWLpFiGjdu/giphy.gif)
