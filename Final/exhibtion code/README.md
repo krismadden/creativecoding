@@ -19,5 +19,5 @@ The key are programmed to the makey makey. Therefore they are a bit awakward to 
 - 8 - s
 - 9 - d
 - 0 - f
-- * - g
-- # - left mouse click
+- \* - g
+- \# - left mouse click
