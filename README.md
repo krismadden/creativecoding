@@ -40,6 +40,8 @@ https://media.giphy.com/media/l1J9Cr5eeEPSGsexa/giphy.gif
 
 ![Gif](https://media.giphy.com/media/3ohhwJ59cxmZQDlfKo/giphy.gif)
 
+![Gif](https://media.giphy.com/media/l3mZ2wl1IIbVxGY2Q/giphy.gif)
+
 
 ### week 6:
 
