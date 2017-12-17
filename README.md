@@ -40,18 +40,35 @@ https://media.giphy.com/media/l1J9Cr5eeEPSGsexa/giphy.gif
 
 ![Gif](https://media.giphy.com/media/3ohhwJ59cxmZQDlfKo/giphy.gif)
 
+Horse Tornado
+
 ![Gif](https://media.giphy.com/media/l3mZ2wl1IIbVxGY2Q/giphy.gif)
 
 
 ### week 6:
 
-Horse Tornado
 ![https://media.giphy.com/media/xT9IgwdF8ThxneOuys/giphy.gif](https://media.giphy.com/media/xT9IgwdF8ThxneOuys/giphy.gif)
 
 ### week 7:
 
 Vive: throw stuff
-[ThrowStuff](https://media.giphy.com/media/3oxHQBIcVQtDf9pjzi/giphy.gif)
+![ThrowStuff](https://media.giphy.com/media/3oxHQBIcVQtDf9pjzi/giphy.gif)
+
+### week 8:
+
+![cube1](https://media.giphy.com/media/26xix0BoVdtvijSEg/giphy.gif)
+
+![cube2](https://media.giphy.com/media/3oxHQKfezzGK3vV6M0/giphy.gif)
+
+![cube3](https://media.giphy.com/media/l3mZ2ssRGhwFl3SiQ/giphy.gif)
+
+### week 9: 
+
+![screenshot1](https://i.imgur.com/HLE8rQN.png)
+
+![screenshot2](https://i.imgur.com/kbH4Flc.png)
+
+![screenshot3](https://i.imgur.com/eUqXaXc.png)
 
 
 ### Final Experiments:

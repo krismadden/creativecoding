@@ -1,5 +1,5 @@
 # creativecoding
-## Updates for week 8
+## Updates for week 7
 
 
 Throw Stuff Fish (I cannot find the orginal file or documentation in my computer backup)

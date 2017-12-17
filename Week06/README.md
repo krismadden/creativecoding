@@ -1,5 +1,5 @@
 # creativecoding
-## Updates for week 7
+## Updates for week 6
 
 
 [GUI options for Python](https://wiki.python.org/moin/GuiProgramming)
