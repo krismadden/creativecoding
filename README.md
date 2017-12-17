@@ -45,7 +45,13 @@ https://media.giphy.com/media/l1J9Cr5eeEPSGsexa/giphy.gif
 
 ### week 6:
 
+Horse Tornado
 ![https://media.giphy.com/media/xT9IgwdF8ThxneOuys/giphy.gif](https://media.giphy.com/media/xT9IgwdF8ThxneOuys/giphy.gif)
+
+### week 7:
+
+Vive: throw stuff
+[ThrowStuff](https://media.giphy.com/media/3oxHQBIcVQtDf9pjzi/giphy.gif)
 
 
 ### Final Experiments:

@@ -1,11 +1,8 @@
 # creativecoding
-## Updates for week 7
+## Updates for week 8
 
 
-[GUI options for Python](https://wiki.python.org/moin/GuiProgramming)
+Throw Stuff Fish (I cannot find the orginal file or documentation in my computer backup)
 
+[ThrowStuff](https://media.giphy.com/media/3oxHQBIcVQtDf9pjzi/giphy.gif)
 
-![Gif](https://media.giphy.com/media/26vIeMqVMOpY926f6/giphy.gif)
-![Gif](https://media.giphy.com/media/3ohhwM941hDVdgqBFK/giphy.gif)
-![Gif](https://media.giphy.com/media/3ov9jTwQwzX9Vc9YJi/giphy.gif)
-![Gif](https://media.giphy.com/media/xT9IgwdF8ThxneOuys/giphy.gif)
